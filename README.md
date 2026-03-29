@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0704-binary-search](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0567-permutation-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -58,5 +59,10 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0704-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

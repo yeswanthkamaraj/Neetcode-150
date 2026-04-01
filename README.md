@@ -35,6 +35,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0074-search-a-2d-matrix) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

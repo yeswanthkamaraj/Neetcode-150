@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@
 | [0015-3sum](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0704-binary-search) |
 ## Matrix
 |  |
@@ -83,4 +86,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

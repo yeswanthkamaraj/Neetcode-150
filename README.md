@@ -18,6 +18,7 @@
 | [0011-container-with-most-water](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0567-permutation-in-string) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0567-permutation-in-string) |
 ## Sliding Window

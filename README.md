@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0347-top-k-frequent-elements) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->

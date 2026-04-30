@@ -18,6 +18,7 @@
 | [0287-find-the-duplicate-number](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,10 +55,12 @@
 | [0143-reorder-list](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |

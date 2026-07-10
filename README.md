@@ -20,6 +20,7 @@
 | [0704-binary-search](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0853-car-fleet) |
+| [1470-shuffle-the-array](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |

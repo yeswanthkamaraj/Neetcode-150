@@ -23,6 +23,7 @@
 | [0853-car-fleet](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0853-car-fleet) |
 | [1470-shuffle-the-array](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/1929-concatenation-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0217-contains-duplicate](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0853-car-fleet) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [0347-top-k-frequent-elements](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/0567-permutation-in-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yeswanthkamaraj/Neetcode-150/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
